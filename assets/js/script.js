@@ -340,3 +340,5 @@ cartClose.forEach(function(closeBtn) {
     shoppingCart.style.right = "-100vw";
   });
 });
+
+
